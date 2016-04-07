@@ -1,13 +1,10 @@
-e 辞書素性の追加
 # 進捗報告20160407
 ## 小町研究室 M1 北川善彬
-
 ---
 ##春休みまとめ
 * 年次大会 NLP2016
 * IM研究会
 * Chainer meet-up #2
-
 * トヨタの成果物の納品
 * B4のこのテーマ決め
 * MicrosoftのインターンのためのCV書き
@@ -81,12 +78,10 @@ e 辞書素性の追加
 
 ---
 ##辞書素性の利用
-* ![Kobito.hqLQFm.png](https://qiita-image-store.s3.amazonaws.com/0/76221/2e42ef52-dfbe-acd2-85fc-706d04f6864b.png "Kobito.hqLQFm.png")
+![Kobito.hqLQFm.png](https://qiita-image-store.s3.amazonaws.com/0/76221/2e42ef52-dfbe-acd2-85fc-706d04f6864b.png "Kobito.hqLQFm.png")
 * l, r, i がそれぞれ binary 素性なので一番簡単なのは one-hot を作って embdedding にすること
 
 ---
-
-
 ##To do
 * コードの書き直し（Chianer のverionアップ 1.4 → 1.7、高速化、）
 * bi-gram tri-gram embedding の追加
