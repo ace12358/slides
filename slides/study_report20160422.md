@@ -18,6 +18,7 @@ class: center middle
 * [△]辞書素性の利用
 * [x]pre-training アンサンブル？
 * [x]CNN、bi-directionalな手法
+
 ## その他
 * MSのインターンの面接
 * NTT研究所のオープンラボ
@@ -25,6 +26,7 @@ class: center middle
 ---
 # GPUでバッチ処理で並列化
 * つまって進まず
+
 ## 問題点
 * RNNの構造だと入力の長さが文によって違う
 * 前の隠れ層が計算し終わらないと次の隠れ層の計算ができない
@@ -36,6 +38,7 @@ class: center middle
 * bi-gram embedding の初期化はランダム
 * 文字、文字種両方ともに対して実装
 * 結果は来週になりそう
+
 ---
 # Microsoft のインターンのための面接
 * 2時間の面接@品川 1人一時間 * 2 
@@ -56,6 +59,7 @@ class: center middle
 * コードの書き直し（Chianer のverionアップ 1.4 → 1.7、高速化、）
 * bi-gram tri-gram embedding の追加
 * 辞書素性の利用
+
 --
 ## 次回以降 or できたら
 * pre-training アンサンブル？
