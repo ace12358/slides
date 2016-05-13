@@ -6,3 +6,5 @@
     - A implimentation of GPU hit the wall
 - [study_report20160506](http://ace12358.github.io/slides/?study_report20160506.md)
     - bigram contribute
+- [study_report20160506](http://ace12358.github.io/slides/?study_report20160513.md)
+    - tri-gram contribute but dictionary don't contribute. MSR poster.
