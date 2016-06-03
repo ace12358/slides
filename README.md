@@ -8,5 +8,7 @@
     - bigram contribute
 - [study_report20160506](http://ace12358.github.io/slides/?study_report20160513.md)
     - tri-gram contribute but dictionary don't contribute. MSR poster.
-- [study_report20160506](http://ace12358.github.io/slides/?study_report20160527.md)
+- [study_report20160527](http://ace12358.github.io/slides/?study_report20160527.md)
     - Japan Korea Acadmic Day Feed Back and Future Direction
+- [study_report20160603](http://ace12358.github.io/slides/?study_report20160603.md)
+    - The begining of Microsoft intern
