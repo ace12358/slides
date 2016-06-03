@@ -23,7 +23,7 @@ class: center middle
 * 最近、オセロ機能が追加されました
 * 連絡は、Slack LINE Skype などでとる
 
-# #やること
+# やること
 * WS の実装
 * feature の実装
 * 他、思いつけばなんでもやらしてもらえそう
