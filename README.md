@@ -12,3 +12,5 @@
     - Japan Korea Acadmic Day Feed Back and Future Direction
 - [study_report20160603](http://ace12358.github.io/slides/?study_report20160603.md)
     - The begining of Microsoft intern
+- [study_report20160610](http://ace12358.github.io/slides/?study_report20160610.md)
+    - Add singleton and hyperparameter search (make model)
