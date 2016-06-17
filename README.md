@@ -14,3 +14,5 @@
     - The begining of Microsoft intern
 - [study_report20160610](http://ace12358.github.io/slides/?study_report20160610.md)
     - Add singleton and hyperparameter search (make model)
+- [study_report20160617](http://ace12358.github.io/slides/?study_report20160617.md)
+    - Where is my progress?
