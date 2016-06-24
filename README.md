@@ -16,3 +16,5 @@
     - Add singleton and hyperparameter search (make model)
 - [study_report20160617](http://ace12358.github.io/slides/?study_report20160617.md)
     - Where is my progress?
+- [study_report20160625](http://ace12358.github.io/slides/?study_report20160625.md)
+    - category evaluation
